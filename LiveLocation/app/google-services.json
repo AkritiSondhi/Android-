@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "412411325514",
+    "firebase_url": "https://live-location-demo.firebaseio.com",
+    "project_id": "live-location-demo",
+    "storage_bucket": "live-location-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412411325514:android:e0a2370f5d3e5711",
+        "android_client_info": {
+          "package_name": "com.example.akriti.livelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412411325514-eeckn3a1bverng8m3em4rhv539ibunl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNZHwzIo4bikFoifywIrMNqKG5hRIb5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
